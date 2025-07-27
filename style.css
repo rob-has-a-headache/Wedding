@@ -9,7 +9,7 @@ body {
 h1, h2, h3 {
     text-align: center;
     margin-top: 2rem;
-    color: #8d5a97;
+    color: #5a976e;
 }
 
 h1 {
@@ -53,18 +53,29 @@ li:last-child {
 }
 
 a {
-    color: #8d5a97;
+    color: #5ca380;
     text-decoration: none;
     transition: color 0.2s;
 }
 
 a:hover {
-    color: #b47cc7;
+    color: #7cc79b;
 }
 
 div {
     text-align: center;
     margin: 1rem 0;
-    color: #b47cc7;
+    color: #5a976e;
     font-weight: bold;
+}
+
+img{
+    display: block;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    max-height: 600px;
+    max-width: 100%;
+    margin: 1rem auto;
+    border-radius: 12px;
 }

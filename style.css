@@ -14,21 +14,9 @@ h1, h2, h3, #countdown {
     text-align: center;
     margin-top: 1rem;
     color: #5a976e;
+    font-size: 1rem;
 }
 
-h1 {
-    font-size: 1.5rem;
-    letter-spacing: 1px;
-}
-
-h2 {
-    font-size: 1.2rem;
-}
-
-h3 {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-}
 
 #countdown {
     font-size: 1.2rem;

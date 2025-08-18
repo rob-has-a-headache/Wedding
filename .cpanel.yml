@@ -4,6 +4,6 @@ tasks:
 - export DEPLOYPATH= /home/hollqxza/public_html
 - /bin/cp index.html 
 - /bin/cp style.css 
-- /bin/cp -R Assets
-- /bin/cp -R Pages
+- /bin/cp -R Assets $DEPLOYPATH
+- /bin/cp -R Pages $DEPLOYPATH
 

@@ -1,4 +1,8 @@
 body {
+    /* background-image: url('Assets/save\ the\ date.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-attachment: fixed;
     font-family: 'Georgia', serif;
     background: #e2dad0;
     color: #333;
@@ -6,20 +10,19 @@ body {
     padding: 0 10vw;
 }
 
-h1, h2, h3 {
+h1, h2, h3, #countdown {
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 1rem;
     color: #5a976e;
 }
 
 h1 {
-    font-size: 2.5rem;
-    letter-spacing: 2px;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
 }
 
 h2 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
 }
 
 h3 {
@@ -28,10 +31,10 @@ h3 {
 }
 
 #countdown {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     text-align: center;
-    margin: 2rem 0;
-    color: #5a976e;
+    margin: 1rem 0;
+    /*color: #5a976e;*/
 }
 
 ul, li {
@@ -42,11 +45,11 @@ ul, li {
 
 #Heading, ul {
     max-width: 600px;
-    margin: 2rem auto;
-    background: #fff;
+    margin: 1rem auto;
+    background: #ffffff;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(141,90,151,0.08);
-    padding: 0.5rem 0rem;
+    padding: 0.1rem 0rem;
 } 
 
 li {
@@ -87,4 +90,4 @@ img{
     max-width: 100%;
     margin: 1rem auto;
     border-radius: 12px;
-}
+}   

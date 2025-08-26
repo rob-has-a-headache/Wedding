@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    font-family: 'Georgia', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
    /* background: #e2dad0; */
     color: #333;
     margin: 0;
@@ -13,8 +13,8 @@ body {
 h1, h2, h3, #countdown {
     text-align: center;
     margin-top: 1rem;
-    color: #5a976e;
-    font-size: 1rem;
+    color: #2e2e2e;
+    font-size: 2rem;
 }
 
 
@@ -36,7 +36,7 @@ ul, li {
     margin: 1rem auto;
     background: #ffffff00;
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(141,90,151,0.08);
+
     padding: 0.1rem 0rem;
 } 
 

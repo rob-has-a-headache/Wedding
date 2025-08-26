@@ -13,7 +13,7 @@ body {
 h1, h2, h3, #countdown {
     text-align: center;
     margin-top: 1rem;
-    color: #2e2e2e;
+    color: #333;
     font-size: 2rem;
 }
 
@@ -52,7 +52,7 @@ li:last-child {
 }
 
 a {
-    color: #5ca380;
+    color: #333;
     text-decoration: none;
     transition: color 0.2s;
 }
@@ -64,7 +64,7 @@ a:hover {
 div {
     text-align: center;
     margin: 1rem 0;
-    color: #5a976e;
+    color: #333;
     font-weight: bold;
 
 }

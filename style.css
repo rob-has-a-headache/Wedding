@@ -1,10 +1,10 @@
 body {
-    /* background-image: url('Assets/save\ the\ date.jpg');
+    background-image: url('Assets/WashBackground.png');
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     background-attachment: fixed;
     font-family: 'Georgia', serif;
-    background: #e2dad0;
+   /* background: #e2dad0; */
     color: #333;
     margin: 0;
     padding: 0 10vw;
@@ -34,7 +34,7 @@ ul, li {
 #Heading, ul {
     max-width: 600px;
     margin: 1rem auto;
-    background: #ffffff;
+    background: #ffffff00;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(141,90,151,0.08);
     padding: 0.1rem 0rem;
